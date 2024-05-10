@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Gex-Labella/Gex-Labella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Am a developer 
 
-Here are some ideas to get you started:
+As an adept software developer, I possess a comprehensive skill set spanning multiple programming languages such as Java, PHP, HTML, CSS, React, NextJS, solidity, Javascript, Node and Python, enhanced by a robust understanding of hardware.
+I am currently on the lookout for dynamic opportunities to apply my technical acumen, participate in pioneering software initiatives, and achieve outstanding outcomes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on Web 3 projects
+- 🌱 I’m currently learning  Solana
+- 👯 I’m looking to collaborate on any project
+- 🤔 I’m looking for help with Marketing
+- 💬 Ask me about Any Tech whether software or hardware
+- 📫 How to reach me: gexlabellautcure@gmail.com
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: Hoping will bring nothing without work
 -->
