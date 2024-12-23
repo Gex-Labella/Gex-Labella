@@ -31,6 +31,7 @@ https://www.linkedin.com/in/stanley-odhiambo-0213861bb/
 https://www.instagram.com/ma3_elkrazie/
 
 🌟 Top Languages
-Java Script, Python, Java , Type script
+
+JavaScript, Python, Java , Type script
 
 ⚡ "Hoping will bring nothing without work"
