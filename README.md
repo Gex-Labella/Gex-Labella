@@ -30,9 +30,7 @@ https://www.linkedin.com/in/stanley-odhiambo-0213861bb/
 
 https://www.instagram.com/ma3_elkrazie/
 
-⚡ Github Stats
-Show Image
 🌟 Top Languages
-Show Image
+Java Script, Python, Java , Type script
 
 ⚡ "Hoping will bring nothing without work"
