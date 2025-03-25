@@ -25,6 +25,12 @@ As an adept software developer, I specialize in full-stack development and Web3 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 🔭 Current Focus
 
@@ -43,6 +49,6 @@ https://www.instagram.com/ma3_elkrazie/
 
 🌟 Top Languages
 
-JavaScript, Python, Java , Type script
+JavaScript, Python, Java , Typescript, Solidity, css, Php, Nestjs, postgres db
 
 ⚡ "Hoping will bring nothing without work"
